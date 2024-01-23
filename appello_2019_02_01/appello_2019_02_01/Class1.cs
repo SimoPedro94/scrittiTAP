@@ -19,7 +19,7 @@
             {
                 var aux = seq.Take(2).ToArray();
                 seq = seq.Skip(2);
-                if (seq.Count() < 1)
+                if (aux.Length == 1)
                     yield return aux[0];
                 else
                 {

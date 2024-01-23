@@ -29,5 +29,37 @@ namespace appello_2019_02_01_test
             Assert.That(list.EvenOddSwap(),Is.EqualTo(expected));
         }
 
+        [TestCase(20)]
+        public void Test3(int approx)
+        {
+            var list = InfiniteSeq().Take(approx).EvenOddSwap().GetEnumerator();
+            var expected = InfiniteExpectedSeq().Take(approx).GetEnumerator();
+            while(list.MoveNext() && expected.MoveNext()) 
+            {
+                Assert.That(list.Current,Is.EqualTo(expected.Current));
+            }
+        }
+
+        private IEnumerable<string> InfiniteExpectedSeq()
+        {
+            int count = 1;
+            while (true)
+            {
+                yield return "Elemento" + count.ToString();
+                count--;
+                yield return "Elemento" + count.ToString();
+                count += 3;
+            }
+        }
+
+        private IEnumerable<string> InfiniteSeq()
+        {
+            int count = 0;
+            while (true)
+            {
+                yield return "Elemento" + count.ToString();
+                count++;
+            }
+        }
     }
 }
