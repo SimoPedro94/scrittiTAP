@@ -4,7 +4,7 @@
     {
         public static void Main()
         {
-            string word = "cane";
+            string word = "CAne";
             foreach (var elem in word.MexicanWave().Take(10).ToList())
             {
                 Console.WriteLine(elem);
