@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\bin\Debug\net7.0\appello_2019_07_09.exe
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\bin\Debug\net7.0\appello_2019_07_09.deps.json
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\bin\Debug\net7.0\appello_2019_07_09.runtimeconfig.json
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\bin\Debug\net7.0\appello_2019_07_09.dll
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\bin\Debug\net7.0\appello_2019_07_09.pdb
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\obj\Debug\net7.0\appello_2019_07_09.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\obj\Debug\net7.0\appello_2019_07_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\obj\Debug\net7.0\appello_2019_07_09.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\obj\Debug\net7.0\appello_2019_07_09.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\obj\Debug\net7.0\appello_2019_07_09.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\obj\Debug\net7.0\appello_2019_07_09.dll
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\obj\Debug\net7.0\refint\appello_2019_07_09.dll
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\obj\Debug\net7.0\appello_2019_07_09.pdb
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\obj\Debug\net7.0\appello_2019_07_09.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2019_07_09\appello_2019_07_09\obj\Debug\net7.0\ref\appello_2019_07_09.dll

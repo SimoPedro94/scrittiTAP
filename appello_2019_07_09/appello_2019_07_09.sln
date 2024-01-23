@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appello_2019_07_09", "appello_2019_07_09\appello_2019_07_09.csproj", "{B4217458-CCA6-4D6D-8044-14A114F7161A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appello_2019_07_09_test", "appello_2019_07_09_test\appello_2019_07_09_test.csproj", "{0447DF0A-E820-4B87-9920-799B89E9E97C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4217458-CCA6-4D6D-8044-14A114F7161A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4217458-CCA6-4D6D-8044-14A114F7161A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4217458-CCA6-4D6D-8044-14A114F7161A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4217458-CCA6-4D6D-8044-14A114F7161A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0447DF0A-E820-4B87-9920-799B89E9E97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0447DF0A-E820-4B87-9920-799B89E9E97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0447DF0A-E820-4B87-9920-799B89E9E97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0447DF0A-E820-4B87-9920-799B89E9E97C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D29DD700-60C7-418A-BC9E-709FBCA110A5}
+	EndGlobalSection
+EndGlobal
