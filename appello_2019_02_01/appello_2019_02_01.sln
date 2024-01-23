@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appello_2019_02_01", "appello_2019_02_01\appello_2019_02_01.csproj", "{1678F169-18E7-4EC5-8AC3-513300870D89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appello_2019_02_01_test", "appello_2019_02_01_test\appello_2019_02_01_test.csproj", "{3B0C3515-7D1D-49A3-B20B-B400A2C9D8F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1678F169-18E7-4EC5-8AC3-513300870D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1678F169-18E7-4EC5-8AC3-513300870D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1678F169-18E7-4EC5-8AC3-513300870D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1678F169-18E7-4EC5-8AC3-513300870D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0C3515-7D1D-49A3-B20B-B400A2C9D8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0C3515-7D1D-49A3-B20B-B400A2C9D8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0C3515-7D1D-49A3-B20B-B400A2C9D8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0C3515-7D1D-49A3-B20B-B400A2C9D8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91589CA0-EF38-4D2A-AD85-CB5C12D1E2FB}
+	EndGlobalSection
+EndGlobal
