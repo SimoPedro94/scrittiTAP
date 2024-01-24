@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\obj\Debug\net7.0\test_mio_per_Mock.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\obj\Debug\net7.0\test_mio_per_Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\obj\Debug\net7.0\test_mio_per_Mock.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\obj\Debug\net7.0\test_mio_per_Mock.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\obj\Debug\net7.0\test_mio_per_Mock.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\bin\Debug\net7.0\test_mio_per_Mock.exe
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\bin\Debug\net7.0\test_mio_per_Mock.deps.json
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\bin\Debug\net7.0\test_mio_per_Mock.runtimeconfig.json
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\bin\Debug\net7.0\test_mio_per_Mock.dll
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\bin\Debug\net7.0\test_mio_per_Mock.pdb
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\obj\Debug\net7.0\test_mio_per_Mock.dll
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\obj\Debug\net7.0\refint\test_mio_per_Mock.dll
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\obj\Debug\net7.0\test_mio_per_Mock.pdb
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\obj\Debug\net7.0\test_mio_per_Mock.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\scrittiTAP\test_mio_per_Mock\test_mio_per_Mock\obj\Debug\net7.0\ref\test_mio_per_Mock.dll
