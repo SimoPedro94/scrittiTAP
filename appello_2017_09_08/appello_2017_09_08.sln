@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appello_2017_09_08", "appello_2017_09_08\appello_2017_09_08.csproj", "{476EB31F-7160-4682-9758-F4DFD49BF790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appello_2017_09_08_test", "appello_2017_09_08_test\appello_2017_09_08_test.csproj", "{CDA85825-2E7F-4A82-861A-768630584250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{476EB31F-7160-4682-9758-F4DFD49BF790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476EB31F-7160-4682-9758-F4DFD49BF790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476EB31F-7160-4682-9758-F4DFD49BF790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476EB31F-7160-4682-9758-F4DFD49BF790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA85825-2E7F-4A82-861A-768630584250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA85825-2E7F-4A82-861A-768630584250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA85825-2E7F-4A82-861A-768630584250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA85825-2E7F-4A82-861A-768630584250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5696D96C-2450-4361-9D4E-F171009174A7}
+	EndGlobalSection
+EndGlobal
