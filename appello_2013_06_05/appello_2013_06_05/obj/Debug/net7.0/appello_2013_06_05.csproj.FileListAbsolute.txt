@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\bin\Debug\net7.0\appello_2013_06_05.exe
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\bin\Debug\net7.0\appello_2013_06_05.deps.json
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\bin\Debug\net7.0\appello_2013_06_05.runtimeconfig.json
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\bin\Debug\net7.0\appello_2013_06_05.dll
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\bin\Debug\net7.0\appello_2013_06_05.pdb
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\obj\Debug\net7.0\appello_2013_06_05.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\obj\Debug\net7.0\appello_2013_06_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\obj\Debug\net7.0\appello_2013_06_05.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\obj\Debug\net7.0\appello_2013_06_05.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\obj\Debug\net7.0\appello_2013_06_05.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\obj\Debug\net7.0\appello_2013_06_05.dll
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\obj\Debug\net7.0\refint\appello_2013_06_05.dll
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\obj\Debug\net7.0\appello_2013_06_05.pdb
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\obj\Debug\net7.0\appello_2013_06_05.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\scrittiTAP\appello_2013_06_05\appello_2013_06_05\obj\Debug\net7.0\ref\appello_2013_06_05.dll
