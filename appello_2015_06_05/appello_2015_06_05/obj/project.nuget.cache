@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FbvEDFcDAeaxE9RgrYcezj5RdNxe+LCFP6N/1hIhf9vbxug7X/aegPAx0xNlmJJYdqjQKp2sedWE/iECoSNR7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\scrittiTAP\\appello_2015_06_05\\appello_2015_06_05\\appello_2015_06_05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\morsecode.nuget\\2.0.0\\morsecode.nuget.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
